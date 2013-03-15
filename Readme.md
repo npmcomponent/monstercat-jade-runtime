@@ -9,7 +9,7 @@
 
 ## API
 
-  var jade = require('jade-runtime')
+    var jade = require('jade-runtime')
 
 ## License
 
