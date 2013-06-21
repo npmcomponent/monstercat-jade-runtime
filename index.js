@@ -1,4 +1,4 @@
-exports = module.exports
+var exports = module.exports
 /*!
  * Jade - runtime
  * Copyright(c) 2010 TJ Holowaychuk <tj@vision-media.ca>
