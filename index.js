@@ -1,4 +1,4 @@
-(function(exports){
+exports = module.exports
 /*!
  * Jade - runtime
  * Copyright(c) 2010 TJ Holowaychuk <tj@vision-media.ca>
@@ -172,7 +172,3 @@ exports.rethrow = function rethrow(err, filename, lineno){
     + '\n' + context + '\n\n' + err.message;
   throw err;
 };
-
-  return exports;
-
-})(module.exports);
