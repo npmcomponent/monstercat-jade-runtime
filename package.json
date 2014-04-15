@@ -1,0 +1,8 @@
+{
+  "name": "monstercat-jade-runtime",
+  "description": "Jade runtime component",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
